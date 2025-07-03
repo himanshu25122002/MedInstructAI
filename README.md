@@ -41,7 +41,7 @@ MedInstructAI is an intelligent voice and text-based assistant that helps users 
 </p>
 
 <p align="center">
-  <img src="assets/Screenshot 2025-07-03 122410.png" width="700"/>
+  <img src="assets/Screenshot 2025-07-03 122410.png" width="600"/>
 </p>
 
 <p align="center">
