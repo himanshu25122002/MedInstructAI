@@ -52,21 +52,21 @@ MedInstructAI is an intelligent voice and text-based assistant that helps users 
 
 ## 🎯 Impact
 
-✅ Bridges the gap between medical knowledge and patient understanding, especially for individuals in rural or non-English-speaking regions.
-✅ Empowers patients by simplifying complex medical language into friendly explanations.
-✅ Improves healthcare accessibility for low-literacy users through voice-based, multilingual support.
-✅ Enhances doctor-patient communication, reducing anxiety and misinformation caused by confusing medical terms.
-✅ Supports early intervention by flagging critical health risks that need professional attention.
+- ✅ Bridges the gap between medical knowledge and patient understanding, especially for individuals in rural or non-English-speaking regions.
+- ✅ Empowers patients by simplifying complex medical language into friendly explanations.
+- ✅ Improves healthcare accessibility for low-literacy users through voice-based, multilingual support.
+- ✅ Enhances doctor-patient communication, reducing anxiety and misinformation caused by confusing medical terms.
+- ✅ Supports early intervention by flagging critical health risks that need professional attention.
 
 ---
 
 
 ## 🧠 Use Cases
 
-🏥 Clinic Kiosks: Self-service AI booths where patients can scan or upload reports for explanation in local language.
-📱 Mobile Health Apps: Integrate into rural telemedicine apps to simplify reports for patients.
-🧓 Elderly Support: Help seniors understand reports through voice without needing to read or type.
-🌐 NGO & Outreach Programs: Aid organizations in remote areas to explain diagnoses in the native dialect.
-🎓 Medical Education: Train healthcare workers on explaining reports in simpler, patient-friendly terms.
+- 🏥 Clinic Kiosks: Self-service AI booths where patients can scan or upload reports for explanation in local language.
+- 📱 Mobile Health Apps: Integrate into rural telemedicine apps to simplify reports for patients.
+- 🧓 Elderly Support: Help seniors understand reports through voice without needing to read or type.
+- 🌐 NGO & Outreach Programs: Aid organizations in remote areas to explain diagnoses in the native dialect.
+- 🎓 Medical Education: Train healthcare workers on explaining reports in simpler, patient-friendly terms.
 
 
