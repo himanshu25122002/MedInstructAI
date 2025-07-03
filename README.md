@@ -69,4 +69,7 @@ MedInstructAI is an intelligent voice and text-based assistant that helps users 
 - 🌐 NGO & Outreach Programs: Aid organizations in remote areas to explain diagnoses in the native dialect.
 - 🎓 Medical Education: Train healthcare workers on explaining reports in simpler, patient-friendly terms.
 
+---
 
+## 🔐 Disclaimer
+MedInstructAI is an experimental tool and not a substitute for professional medical advice. For real diagnosis or treatment, please consult a licensed medical professional.
