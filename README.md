@@ -48,10 +48,9 @@ MedInstructAI is an intelligent voice and text-based assistant that helps users 
   <img src="assets/Screenshot 2025-07-03 122622.png" width="700"/>
 </p>
 
+---
 
-
-
-🎯 Impact
+## 🎯 Impact
 
 ✅ Bridges the gap between medical knowledge and patient understanding, especially for individuals in rural or non-English-speaking regions.
 ✅ Empowers patients by simplifying complex medical language into friendly explanations.
@@ -59,7 +58,10 @@ MedInstructAI is an intelligent voice and text-based assistant that helps users 
 ✅ Enhances doctor-patient communication, reducing anxiety and misinformation caused by confusing medical terms.
 ✅ Supports early intervention by flagging critical health risks that need professional attention.
 
-🧠 Use Cases
+---
+
+
+## 🧠 Use Cases
 
 🏥 Clinic Kiosks: Self-service AI booths where patients can scan or upload reports for explanation in local language.
 📱 Mobile Health Apps: Integrate into rural telemedicine apps to simplify reports for patients.
